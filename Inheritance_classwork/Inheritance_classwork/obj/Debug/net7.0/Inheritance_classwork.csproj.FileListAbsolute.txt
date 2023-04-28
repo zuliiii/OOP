@@ -1,0 +1,15 @@
+C:\Users\99451\source\repos\Inheritance_classwork\Inheritance_classwork\bin\Debug\net7.0\Inheritance_classwork.exe
+C:\Users\99451\source\repos\Inheritance_classwork\Inheritance_classwork\bin\Debug\net7.0\Inheritance_classwork.deps.json
+C:\Users\99451\source\repos\Inheritance_classwork\Inheritance_classwork\bin\Debug\net7.0\Inheritance_classwork.runtimeconfig.json
+C:\Users\99451\source\repos\Inheritance_classwork\Inheritance_classwork\bin\Debug\net7.0\Inheritance_classwork.dll
+C:\Users\99451\source\repos\Inheritance_classwork\Inheritance_classwork\bin\Debug\net7.0\Inheritance_classwork.pdb
+C:\Users\99451\source\repos\Inheritance_classwork\Inheritance_classwork\obj\Debug\net7.0\Inheritance_classwork.csproj.AssemblyReference.cache
+C:\Users\99451\source\repos\Inheritance_classwork\Inheritance_classwork\obj\Debug\net7.0\Inheritance_classwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99451\source\repos\Inheritance_classwork\Inheritance_classwork\obj\Debug\net7.0\Inheritance_classwork.AssemblyInfoInputs.cache
+C:\Users\99451\source\repos\Inheritance_classwork\Inheritance_classwork\obj\Debug\net7.0\Inheritance_classwork.AssemblyInfo.cs
+C:\Users\99451\source\repos\Inheritance_classwork\Inheritance_classwork\obj\Debug\net7.0\Inheritance_classwork.csproj.CoreCompileInputs.cache
+C:\Users\99451\source\repos\Inheritance_classwork\Inheritance_classwork\obj\Debug\net7.0\Inheritance_classwork.dll
+C:\Users\99451\source\repos\Inheritance_classwork\Inheritance_classwork\obj\Debug\net7.0\refint\Inheritance_classwork.dll
+C:\Users\99451\source\repos\Inheritance_classwork\Inheritance_classwork\obj\Debug\net7.0\Inheritance_classwork.pdb
+C:\Users\99451\source\repos\Inheritance_classwork\Inheritance_classwork\obj\Debug\net7.0\Inheritance_classwork.genruntimeconfig.cache
+C:\Users\99451\source\repos\Inheritance_classwork\Inheritance_classwork\obj\Debug\net7.0\ref\Inheritance_classwork.dll
