@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\99451\\Desktop\\OOP\\OOP\\OOP.csproj": {}
+    "C:\\Users\\99451\\Desktop\\OOP\\Inheritance2\\Inheritance2\\Inheritance2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\99451\\Desktop\\OOP\\OOP\\OOP.csproj": {
+    "C:\\Users\\99451\\Desktop\\OOP\\Inheritance2\\Inheritance2\\Inheritance2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\99451\\Desktop\\OOP\\OOP\\OOP.csproj",
-        "projectName": "OOP",
-        "projectPath": "C:\\Users\\99451\\Desktop\\OOP\\OOP\\OOP.csproj",
+        "projectUniqueName": "C:\\Users\\99451\\Desktop\\OOP\\Inheritance2\\Inheritance2\\Inheritance2.csproj",
+        "projectName": "Inheritance2",
+        "projectPath": "C:\\Users\\99451\\Desktop\\OOP\\Inheritance2\\Inheritance2\\Inheritance2.csproj",
         "packagesPath": "C:\\Users\\99451\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\99451\\Desktop\\OOP\\OOP\\obj\\",
+        "outputPath": "C:\\Users\\99451\\Desktop\\OOP\\Inheritance2\\Inheritance2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\99451\\AppData\\Roaming\\NuGet\\NuGet.Config",
