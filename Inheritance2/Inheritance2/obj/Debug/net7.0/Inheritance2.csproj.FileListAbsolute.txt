@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\99451\source\repos\Inheritance2\Inheritance2\bin\Debug\net7.0\Inheritance2.exe
 C:\Users\99451\source\repos\Inheritance2\Inheritance2\bin\Debug\net7.0\Inheritance2.deps.json
 C:\Users\99451\source\repos\Inheritance2\Inheritance2\bin\Debug\net7.0\Inheritance2.runtimeconfig.json
@@ -13,3 +14,20 @@ C:\Users\99451\source\repos\Inheritance2\Inheritance2\obj\Debug\net7.0\refint\In
 C:\Users\99451\source\repos\Inheritance2\Inheritance2\obj\Debug\net7.0\Inheritance2.pdb
 C:\Users\99451\source\repos\Inheritance2\Inheritance2\obj\Debug\net7.0\Inheritance2.genruntimeconfig.cache
 C:\Users\99451\source\repos\Inheritance2\Inheritance2\obj\Debug\net7.0\ref\Inheritance2.dll
+=======
+C:\Users\99451\source\repos\Inheritance2\Inheritance2\bin\Debug\net7.0\Inheritance2.exe
+C:\Users\99451\source\repos\Inheritance2\Inheritance2\bin\Debug\net7.0\Inheritance2.deps.json
+C:\Users\99451\source\repos\Inheritance2\Inheritance2\bin\Debug\net7.0\Inheritance2.runtimeconfig.json
+C:\Users\99451\source\repos\Inheritance2\Inheritance2\bin\Debug\net7.0\Inheritance2.dll
+C:\Users\99451\source\repos\Inheritance2\Inheritance2\bin\Debug\net7.0\Inheritance2.pdb
+C:\Users\99451\source\repos\Inheritance2\Inheritance2\obj\Debug\net7.0\Inheritance2.csproj.AssemblyReference.cache
+C:\Users\99451\source\repos\Inheritance2\Inheritance2\obj\Debug\net7.0\Inheritance2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99451\source\repos\Inheritance2\Inheritance2\obj\Debug\net7.0\Inheritance2.AssemblyInfoInputs.cache
+C:\Users\99451\source\repos\Inheritance2\Inheritance2\obj\Debug\net7.0\Inheritance2.AssemblyInfo.cs
+C:\Users\99451\source\repos\Inheritance2\Inheritance2\obj\Debug\net7.0\Inheritance2.csproj.CoreCompileInputs.cache
+C:\Users\99451\source\repos\Inheritance2\Inheritance2\obj\Debug\net7.0\Inheritance2.dll
+C:\Users\99451\source\repos\Inheritance2\Inheritance2\obj\Debug\net7.0\refint\Inheritance2.dll
+C:\Users\99451\source\repos\Inheritance2\Inheritance2\obj\Debug\net7.0\Inheritance2.pdb
+C:\Users\99451\source\repos\Inheritance2\Inheritance2\obj\Debug\net7.0\Inheritance2.genruntimeconfig.cache
+C:\Users\99451\source\repos\Inheritance2\Inheritance2\obj\Debug\net7.0\ref\Inheritance2.dll
+>>>>>>> c1d4489babd11369eafef25153d7b9e526e8d15d

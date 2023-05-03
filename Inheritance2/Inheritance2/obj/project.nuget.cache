@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "ZRJLijMx1M0EYwbkVktl9afg0mN2DanNLYPkIExjy1l6XItLRkUgBY6vtIf3ByKBUDSRuNrdFe/3EdL5kQaCiA==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\99451\\Desktop\\OOP\\Inheritance2\\Inheritance2\\Inheritance2.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "ELRhsKidpb1h+xOJucDB9nbF6XTH7QEUuleYuXQzwLN6xsH0hODe94BE5GQqnLQrK5aUEzjK518sTWq3kJl3bg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\99451\\source\\repos\\Inheritance2\\Inheritance2\\Inheritance2.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> c1d4489babd11369eafef25153d7b9e526e8d15d
 }
