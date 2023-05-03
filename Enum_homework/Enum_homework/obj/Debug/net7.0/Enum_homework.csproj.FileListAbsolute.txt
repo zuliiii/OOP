@@ -1,0 +1,15 @@
+C:\Users\99451\source\repos\Enum_homework\Enum_homework\bin\Debug\net7.0\Enum_homework.exe
+C:\Users\99451\source\repos\Enum_homework\Enum_homework\bin\Debug\net7.0\Enum_homework.deps.json
+C:\Users\99451\source\repos\Enum_homework\Enum_homework\bin\Debug\net7.0\Enum_homework.runtimeconfig.json
+C:\Users\99451\source\repos\Enum_homework\Enum_homework\bin\Debug\net7.0\Enum_homework.dll
+C:\Users\99451\source\repos\Enum_homework\Enum_homework\bin\Debug\net7.0\Enum_homework.pdb
+C:\Users\99451\source\repos\Enum_homework\Enum_homework\obj\Debug\net7.0\Enum_homework.csproj.AssemblyReference.cache
+C:\Users\99451\source\repos\Enum_homework\Enum_homework\obj\Debug\net7.0\Enum_homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99451\source\repos\Enum_homework\Enum_homework\obj\Debug\net7.0\Enum_homework.AssemblyInfoInputs.cache
+C:\Users\99451\source\repos\Enum_homework\Enum_homework\obj\Debug\net7.0\Enum_homework.AssemblyInfo.cs
+C:\Users\99451\source\repos\Enum_homework\Enum_homework\obj\Debug\net7.0\Enum_homework.csproj.CoreCompileInputs.cache
+C:\Users\99451\source\repos\Enum_homework\Enum_homework\obj\Debug\net7.0\Enum_homework.dll
+C:\Users\99451\source\repos\Enum_homework\Enum_homework\obj\Debug\net7.0\refint\Enum_homework.dll
+C:\Users\99451\source\repos\Enum_homework\Enum_homework\obj\Debug\net7.0\Enum_homework.pdb
+C:\Users\99451\source\repos\Enum_homework\Enum_homework\obj\Debug\net7.0\Enum_homework.genruntimeconfig.cache
+C:\Users\99451\source\repos\Enum_homework\Enum_homework\obj\Debug\net7.0\ref\Enum_homework.dll
