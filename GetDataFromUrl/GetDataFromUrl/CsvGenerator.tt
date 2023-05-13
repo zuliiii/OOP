@@ -1,0 +1,13 @@
+﻿<#@ template language="C#" #>
+<#@ output extension=".csv" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ import namespace="GetData" #>
+
+<#
+    var vcards = VCardConverter.ConvertFromRandomUser().Result;
+#>
+
+Id,First Name,Last Name,Email,Phone,Country,City
+<# foreach (var vcard in vcards) { #>
+<#= vcard.Id #>,<#= vcard.Firstname #>,<#= vcard.Surname #>,<#= vcard.Email #>,<#= vcard.Phone #>,<#= vcard.Country #>,<#= vcard.City #>
+<# } #>

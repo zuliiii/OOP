@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\99451\\source\\repos\\Enum_homework\\Enum_homework\\Enum_homework.csproj",
+      "projectUniqueName": "C:\\Users\\99451\\Desktop\\OOP\\Enum_homework\\Enum_homework\\Enum_homework.csproj",
       "projectName": "Enum_homework",
-      "projectPath": "C:\\Users\\99451\\source\\repos\\Enum_homework\\Enum_homework\\Enum_homework.csproj",
+      "projectPath": "C:\\Users\\99451\\Desktop\\OOP\\Enum_homework\\Enum_homework\\Enum_homework.csproj",
       "packagesPath": "C:\\Users\\99451\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\99451\\source\\repos\\Enum_homework\\Enum_homework\\obj\\",
+      "outputPath": "C:\\Users\\99451\\Desktop\\OOP\\Enum_homework\\Enum_homework\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\99451\\AppData\\Roaming\\NuGet\\NuGet.Config",
