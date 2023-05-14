@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J3mJT1ml1pVFm0SRYhEsyntzSuNe+b58rc5fszfYZkt4xFVlJlGixIfS4HPA61ax0zcA1invEUns+RT1To7nyw==",
+  "dgSpecHash": "rmFr4yZH6WCg/EjSiwbkZ7Y4cKYwBuZ2PSNdPM29PhxdDkD9JvRGRKECmoyOMiY6OObW92WpfRbczIraDlVptA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\99451\\source\\repos\\GetDataFromUrl\\GetDataFromUrl\\GetDataFromUrl.csproj",
+  "projectFilePath": "C:\\Users\\99451\\Desktop\\OOP\\GetDataFromUrl\\GetDataFromUrl\\GetDataFromUrl.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\99451\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\99451\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.1\\microsoft.netcore.platforms.5.0.1.nupkg.sha512",

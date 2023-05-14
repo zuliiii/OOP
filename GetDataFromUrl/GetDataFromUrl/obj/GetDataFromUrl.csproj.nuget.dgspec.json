@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\99451\\source\\repos\\GetDataFromUrl\\GetDataFromUrl\\GetDataFromUrl.csproj": {}
+    "C:\\Users\\99451\\Desktop\\OOP\\GetDataFromUrl\\GetDataFromUrl\\GetDataFromUrl.csproj": {}
   },
   "projects": {
-    "C:\\Users\\99451\\source\\repos\\GetDataFromUrl\\GetDataFromUrl\\GetDataFromUrl.csproj": {
+    "C:\\Users\\99451\\Desktop\\OOP\\GetDataFromUrl\\GetDataFromUrl\\GetDataFromUrl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\99451\\source\\repos\\GetDataFromUrl\\GetDataFromUrl\\GetDataFromUrl.csproj",
+        "projectUniqueName": "C:\\Users\\99451\\Desktop\\OOP\\GetDataFromUrl\\GetDataFromUrl\\GetDataFromUrl.csproj",
         "projectName": "GetDataFromUrl",
-        "projectPath": "C:\\Users\\99451\\source\\repos\\GetDataFromUrl\\GetDataFromUrl\\GetDataFromUrl.csproj",
+        "projectPath": "C:\\Users\\99451\\Desktop\\OOP\\GetDataFromUrl\\GetDataFromUrl\\GetDataFromUrl.csproj",
         "packagesPath": "C:\\Users\\99451\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\99451\\source\\repos\\GetDataFromUrl\\GetDataFromUrl\\obj\\",
+        "outputPath": "C:\\Users\\99451\\Desktop\\OOP\\GetDataFromUrl\\GetDataFromUrl\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\99451\\AppData\\Roaming\\NuGet\\NuGet.Config",

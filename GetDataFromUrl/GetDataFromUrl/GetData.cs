@@ -21,15 +21,15 @@ public class GetData
 
         public override string ToString()
         {
-            return $"ID: {Id}\nName: {Firstname} {Surname}\nEmail: {Email}\nPhone: {Phone}\nLocation: {City}, {Country}\n";
+            return $"ID: {Id}\nName: {Firstname}\nLastname: {Surname}\nEmail: {Email}\nPhone: {Phone}\nCountry: {Country}\nCity: {City}\n";
         }
     }
 
     public static class VCardConverter
     {
-        public static async Task<List<VCard>> ConvertFromRandomUser(int count = 3)
+        public static async Task<List<VCard>> ConvertFromRandomUser()
         {
-            var url = $"https://randomuser.me/api?results={count}";
+            var url = $"https://randomuser.me/api?results=3";
             var httpClient = new HttpClient();
             var response = await httpClient.GetAsync(url);
             var json = await response.Content.ReadAsStringAsync();
@@ -42,13 +42,13 @@ public class GetData
                 {
                     var vcard = new VCard
                     {
-                        Id = user.login_uuid,
-                        Firstname = user.name_first,
-                        Surname = user.name_last,
+                        Id = user.uuid,
+                        Firstname = user.name.first,
+                        Surname = user.name.last,
                         Email = user.email,
-                        Phone = user.phone,
-                        Country = user.location_country,
-                        City = user.location_city
+                        Phone = user.phone.mobile,
+                        Country = user.location.country,
+                        City = user.location.city
                     };
                     vcards.Add(vcard);
                 }
@@ -71,13 +71,29 @@ public class GetData
 
     public class RandomUser
     {
-        public string login_uuid { get; set; }
-        public string name_first { get; set; }
-        public string name_last { get; set; }
+        public string uuid { get; set; }
         public string email { get; set; }
-        public string phone { get; set; }
-        public string location_country { get; set; }
-        public string location_city { get; set; }
+        public Phone phone { get; set; }
+        public Name name { get; set; }
+        public Location location { get; set; }
     }
+
+    public class Name
+    {
+        public string first { get; set; }
+        public string last { get; set; }
+    }
+
+    public class Phone
+    {
+        public string mobile { get; set; }
+    }
+
+    public class Location
+    {
+        public string country { get; set; }
+        public string city { get; set; }
+    }
+
 
 }

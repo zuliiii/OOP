@@ -1,34 +1,41 @@
 ﻿using System;
 using static GetData.GetData;
 using GetData;
-
 using System.IO;
 using Microsoft.VisualStudio.TextTemplating;
 
 class Program
 {
-    static void Main(string[] args)
+    public static class vCardExtention
     {
-        // Set the path to the template file
-        var templatePath = @"path/to/CsvGenerator.tt";
 
-        // Create a new instance of the TextTransformation class
-        var transformation = new Engine()
-            .CreateTransformation(templatePath);
+        static void Main(string[] args)
+        {
+          
 
-        // Set the output path for the generated CSV file
-        var outputPath = @"path/to/output.csv";
 
-        // Set the host of the TextTransformation
-        var host = new TextTemplatingSession();
+            var vcards = VCardConverter.ConvertFromRandomUser().Result;
+            foreach (var vcard in vcards)
+            {
+                string MainvCard = $"""
+                BEGIN:VCARD
+                VERSION:4.1
+                Name:{vcard.Firstname}
+                LastName:{vcard.Surname}
+                Phone:{vcard.Phone}
+                Email:{vcard.Email}
+                Country:{vcard.Country}
+                City:{vcard.City}
+                END:VCARD
+                """;
+                string path = @"C:\Users\99451\Desktop\OOP\GetDataFromUrl\VCard.csv";
+                File.WriteAllText(path, MainvCard);
 
-        // Generate the CSV file using the template
-        var result = transformation.TransformText();
+                Console.WriteLine(vcard);
+            }
+            
 
-        // Write the generated CSV file to disk
-        File.WriteAllText(outputPath, result);
+        }
 
-        Console.WriteLine($"CSV file generated at {outputPath}");
     }
-
 }

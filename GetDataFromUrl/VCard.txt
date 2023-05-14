@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:4.1
+Name:Badia
+LastName:Steunebrink
+Phone:(073) 2027128
+Email:badia.steunebrink@example.com
+Country:Netherlands
+City:Ferwoude
+END:VCARD
